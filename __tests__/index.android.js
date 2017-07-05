@@ -12,5 +12,5 @@
 // });
 
 it("test case", () => {
-
+  console.log("I'm testing go pipeline!");
 });
